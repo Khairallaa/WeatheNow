@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">weathernow</string>
+    <string name="title_activity_main">weathernow</string>
+    <string name="package_name">com.weathernow.app</string>
+    <string name="custom_url_scheme">com.weathernow.app</string>
+</resources>
