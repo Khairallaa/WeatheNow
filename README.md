@@ -1,4 +1,4 @@
-# WeatherPulse - Real-time Weather Dashboard
+# WeatherNow - Real-time Weather Dashboard
 **note:** For android Users install the WeatherNow.apk
 
 
@@ -40,7 +40,7 @@ A beautiful, responsive weather application built with React, TypeScript, and Vi
 ## 📦 Project Structure
 
 ```
-WeatherPulse/
+WeatherNow/
 ├── src/
 │   ├── pages/
 │   │   ├── CurrentWeather.tsx     # Current weather display
@@ -70,7 +70,7 @@ WeatherPulse/
 
 1. **Extract the project**
    ```bash
-   unzip WeatherPulse-Complete.zip
+   unzip WeatherNow-Complete.zip
    cd WeatherPulse
    ```
 
