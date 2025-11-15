@@ -1,5 +1,5 @@
 # WeatherPulse - Real-time Weather Dashboard
-
+**note:** For android Users install the WeatherNow.apk
 A beautiful, responsive weather application built with React, TypeScript, and Vite. Get real-time weather data and 5-day forecasts for any city in the world.
 
 ## 🌟 Features
